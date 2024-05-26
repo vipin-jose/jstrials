@@ -1,0 +1,12 @@
+{
+  "name": "jstrials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jsonmerge": "node ./lib/JSONMerge.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
